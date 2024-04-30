@@ -29,12 +29,11 @@ After making these transformations to the files, the new dataframes are saved as
 ------------------------
 
 ## *LOAD:* ##
-## **Crowdfunding DB Table Data** ##
+## **Crowdfunding DB ERD & Table Data** ##
 * A database called "crowdfunding db" was created inside pgAdmin4 and a schema called "crowdfunding_db_schema.sql" was used to create the tables to allow for importing of the CSV files. SELECT * statements were ran on each table to ensure that each table's respective data was imported correctly from the CSV files
 
 ### **Crowdfunding DB Entity-Relationship Diagram (ERD)** ###
 ![Crowdfunding_ETL_ERD](https://github.com/nmrodio/Crowdfunding_ETL/assets/157527614/078925d6-580c-4390-9702-43459c9e4bd5)
-
 
 ### **Campaign Table** ###
 ![Campaign_table_data_screenshot](https://github.com/nmrodio/Crowdfunding_ETL/assets/157527614/7c9a37e2-1d78-46ad-a9d6-9025f2465a90)
